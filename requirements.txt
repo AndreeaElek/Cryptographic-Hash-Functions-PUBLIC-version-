@@ -1,0 +1,4 @@
+Library: OpenSSL 3.x (libcrypto)
+Compiler: GCC 11.0+ (MinGW-w64)
+Environment: Windows PowerShell / Command Prompt
+Python: 3.10 or higher
